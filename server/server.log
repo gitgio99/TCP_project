@@ -198,3 +198,366 @@
 [05-20 21:06:51] [INFO] device_init() 호출 완료
 [05-20 21:06:51] [INFO] run_device_command() 진입. 명령어: LED ONLED ON
 [05-20 21:06:51] [INFO] dlsym 호출 직전
+[05-21 11:08:50] [INFO] 서버 시작됨 (포트 5200)
+[05-21 11:08:50] [INFO] 클라이언트 접속 대기 중...
+[05-21 11:08:53] [INFO] 자식 5064: 클라이언트 접속
+[05-21 11:08:57] [INFO] 자식 5064: 수신 명령: LED ON
+[05-21 11:08:57] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 11:08:57] [INFO] device_init() 호출 완료
+[05-21 11:08:57] [INFO] run_device_command() 진입. 명령어: LED ON
+[05-21 11:08:57] [INFO] dlsym 호출 직전
+[05-21 11:12:07] [INFO] 서버 시작됨 (포트 5200)
+[05-21 11:12:07] [ERROR] bind() 실패: Address already in use
+[05-21 11:12:13] [INFO] 자식 5240: 클라이언트 접속
+[05-21 11:12:27] [INFO] 자식 5240: 수신 명령: LED ONLED ON
+[05-21 11:12:27] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 11:12:27] [INFO] device_init() 호출 완료
+[05-21 11:12:27] [INFO] run_device_command() 진입. 명령어: LED ONLED ON
+[05-21 11:12:27] [INFO] dlsym 호출 직전
+[05-21 11:36:25] [INFO] 서버 시작됨 (포트 5200)
+[05-21 11:36:25] [INFO] 클라이언트 접속 대기 중...
+[05-21 11:36:33] [INFO] 자식 5511: 클라이언트 접속
+[05-21 11:36:33] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 11:36:33] [INFO] device_init() 호출 완료
+[05-21 11:36:39] [INFO] 자식 5511: 수신 명령: LED ON
+[05-21 11:36:39] [INFO] run_device_command() 진입. 명령어: LED ON
+[05-21 11:36:39] [INFO] dlsym 호출 직전
+[05-21 11:36:47] [INFO] 자식 5517: 클라이언트 접속
+[05-21 11:36:47] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 11:36:47] [INFO] device_init() 호출 완료
+[05-21 11:36:55] [INFO] 자식 5517: 클라이언트 연결 종료 (EOF)
+[05-21 11:48:31] [INFO] 서버 시작됨 (포트 5200)
+[05-21 11:48:31] [INFO] 클라이언트 접속 대기 중...
+[05-21 11:48:40] [INFO] 자식 5989: 클라이언트 접속
+[05-21 11:48:40] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 11:48:59] [INFO] 자식 5994: 클라이언트 접속
+[05-21 11:48:59] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 11:55:54] [INFO] 서버 시작됨 (포트 5200)
+[05-21 11:55:54] [INFO] 클라이언트 접속 대기 중...
+[05-21 11:55:57] [INFO] 자식 6189: 클라이언트 접속
+[05-21 11:55:57] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 12:01:24] [INFO] 서버 시작됨 (포트 5200)
+[05-21 12:01:24] [INFO] 클라이언트 접속 대기 중...
+[05-21 12:01:27] [INFO] 자식 6333: 클라이언트 접속
+[05-21 12:01:27] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 12:01:49] [INFO] 자식 6345: 클라이언트 접속
+[05-21 12:01:49] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 12:02:00] [INFO] 자식 6346: 클라이언트 접속
+[05-21 12:02:00] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 12:06:27] [INFO] 서버 시작됨 (포트 5200)
+[05-21 12:06:27] [INFO] 클라이언트 접속 대기 중...
+[05-21 12:06:56] [INFO] 서버 시작됨 (포트 5200)
+[05-21 12:06:56] [INFO] 클라이언트 접속 대기 중...
+[05-21 12:07:02] [INFO] 자식 6613: 클라이언트 접속
+[05-21 12:07:02] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 12:07:02] [INFO] dlsym 호출 직전
+[05-21 12:07:02] [INFO] dlsym 호출 직후
+[05-21 12:07:02] [INFO] 자식 6613: 정상 종료 (코드 127)
+[05-21 12:07:22] [INFO] 자식 6624: 클라이언트 접속
+[05-21 12:07:22] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 12:07:22] [INFO] dlsym 호출 직전
+[05-21 12:07:22] [INFO] dlsym 호출 직후
+[05-21 12:07:22] [INFO] 자식 6624: 정상 종료 (코드 127)
+[05-21 12:19:08] [INFO] 자식 6993: 클라이언트 접속
+[05-21 12:19:08] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 12:19:08] [INFO] dlsym 호출 직전
+[05-21 12:19:08] [INFO] dlsym 호출 직후
+[05-21 12:19:08] [INFO] 자식 6993: 정상 종료 (코드 127)
+[05-21 13:03:19] [INFO] 서버 시작됨 (포트 5200)
+[05-21 13:03:19] [INFO] 클라이언트 접속 대기 중...
+[05-21 13:03:22] [INFO] 자식 7202: 클라이언트 접속
+[05-21 13:03:22] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 13:03:22] [INFO] dlsym 호출 직전
+[05-21 13:03:22] [INFO] dlsym 호출 직후
+[05-21 13:03:22] [INFO] 자식 7202: 정상 종료 (코드 127)
+[05-21 14:04:33] [ERROR] bind() 실패: Address already in use
+[05-21 14:04:45] [INFO] 자식 7849: 클라이언트 접속
+[05-21 14:04:45] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 14:04:45] [INFO] dlsym 호출 직전
+[05-21 14:04:45] [INFO] dlsym 호출 직후
+[05-21 14:04:45] [INFO] 자식 7849: 정상 종료 (코드 127)
+[05-21 14:05:48] [INFO] 서버 시작됨 (포트 5200)
+[05-21 14:06:03] [INFO] 자식 7990: 클라이언트 접속
+[05-21 14:06:03] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 14:06:03] [INFO] dlsym 호출 직전
+[05-21 14:06:03] [INFO] dlsym 호출 직후
+[05-21 14:30:43] [INFO] 서버 시작됨 (포트 5200)
+[05-21 14:30:49] [INFO] 자식 8446: 클라이언트 접속
+[05-21 14:30:49] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 14:30:49] [INFO] dlsym 호출 직전
+[05-21 14:30:49] [INFO] dlsym 호출 직후
+[05-21 14:31:04] [INFO] 자식 8457: 클라이언트 접속
+[05-21 14:31:04] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 14:31:04] [INFO] dlsym 호출 직전
+[05-21 14:31:04] [INFO] dlsym 호출 직후
+[05-21 15:06:40] [INFO] 서버 시작됨 (포트 5200)
+[05-21 15:06:52] [INFO] 클라이언트 스레드 시작 (TID: 547704336768)
+[05-21 15:06:52] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 15:06:52] [INFO] dlsym 호출 직전
+[05-21 15:06:52] [INFO] dlsym 호출 직후
+[05-21 15:07:48] [INFO] 서버 시작됨 (포트 5200)
+[05-21 15:07:52] [INFO] 클라이언트 스레드 시작 (TID: 548500926848)
+[05-21 15:07:52] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 15:07:52] [INFO] dlsym 호출 직전
+[05-21 15:07:52] [INFO] dlsym 호출 직후
+[05-21 15:16:02] [INFO] 서버 시작됨 (포트 5200)
+[05-21 15:16:04] [INFO] 클라이언트 스레드 시작 (TID: 548100305280)
+[05-21 15:16:04] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 15:16:04] [INFO] dlsym 호출 직전
+[05-21 15:16:04] [INFO] dlsym 호출 직후
+[05-21 15:20:26] [INFO] 서버 시작됨 (포트 5200)
+[05-21 15:20:31] [INFO] 클라이언트 스레드 시작 (TID: 548059935104)
+[05-21 15:20:31] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 15:20:31] [INFO] dlsym 호출 직전
+[05-21 15:20:31] [INFO] dlsym 호출 직후
+[05-21 15:22:13] [INFO] 서버 시작됨 (포트 5200)
+[05-21 15:23:51] [INFO] 클라이언트 스레드 시작 (TID: 547886068096)
+[05-21 15:23:51] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 15:23:51] [INFO] dlsym 호출 직전
+[05-21 15:23:51] [INFO] dlsym 호출 직후
+[05-21 15:24:16] [INFO] 서버 시작됨 (포트 5200)
+[05-21 15:24:29] [INFO] 클라이언트 스레드 시작 (TID: 548488999296)
+[05-21 15:24:29] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 15:24:29] [INFO] dlsym 호출 직전
+[05-21 15:24:29] [INFO] dlsym 호출 직후
+[05-21 15:36:26] [INFO] 서버 시작됨 (포트 5200)
+[05-21 15:36:39] [INFO] 클라이언트 연결 수락: 192.168.0.33:59323
+[05-21 15:36:39] [INFO] 클라이언트 스레드 시작 (TID: 548517179776)
+[05-21 15:36:39] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 15:36:39] [INFO] dlsym 호출 직전
+[05-21 15:36:39] [INFO] dlsym 호출 직후
+[05-21 15:45:46] [INFO] 서버 시작됨 (포트 5200)
+[05-21 15:46:04] [INFO] 클라이언트 연결 수락: 192.168.0.33:59475
+[05-21 15:46:04] [INFO] 클라이언트 스레드 시작 (TID: 547873943936)
+[05-21 15:46:04] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 15:46:04] [INFO] dlsym 호출 직전
+[05-21 15:46:04] [INFO] dlsym 호출 직후
+[05-21 15:48:19] [INFO] 서버 시작됨 (포트 5200)
+[05-21 15:48:23] [INFO] 클라이언트 연결 수락: 192.168.0.33:59505
+[05-21 15:48:23] [INFO] 클라이언트 스레드 시작 (TID: 548120621440)
+[05-21 15:48:23] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 15:48:23] [INFO] dlsym 호출 직전
+[05-21 15:48:23] [INFO] dlsym 호출 직후
+[05-21 15:52:05] [INFO] 서버 시작됨 (포트 5200)
+[05-21 15:52:14] [INFO] 클라이언트 연결 수락: 192.168.0.33:59528
+[05-21 15:52:14] [INFO] 클라이언트 스레드 시작 (TID: 548459049344)
+[05-21 15:52:14] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 15:52:14] [INFO] dlsym 호출 직전
+[05-21 15:52:14] [INFO] dlsym 호출 직후
+[05-21 17:24:15] [INFO] 서버 시작됨 (포트 5200)
+[05-21 17:24:17] [ERROR] bind() 실패: Address already in use
+[05-21 17:24:21] [INFO] 클라이언트 연결 수락: 192.168.0.33:60209
+[05-21 17:24:21] [INFO] 클라이언트 스레드 시작 (TID: 548160467328)
+[05-21 17:24:21] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 17:24:21] [INFO] dlsym 호출 직전
+[05-21 17:24:21] [INFO] dlsym 호출 직후
+[05-21 17:24:21] [INFO] device_init() 호출 완료
+[05-21 17:24:28] [INFO] 수신 명령: led ON
+[05-21 17:24:28] [INFO] run_device_command() 진입. 명령어: led ON
+[05-21 17:24:28] [INFO] dlsym 호출 직전
+[05-21 17:24:28] [INFO] dlsym 호출 직후
+[05-21 17:24:28] [INFO] device_control() 호출 준비 완료: 명령어 = "led ON"
+[05-21 17:31:33] [INFO] 서버 시작됨 (포트 5200)
+[05-21 17:31:37] [INFO] 클라이언트 연결 수락: 192.168.0.33:60257
+[05-21 17:31:37] [INFO] 클라이언트 스레드 시작 (TID: 547704467840)
+[05-21 17:31:37] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 17:31:37] [INFO] dlsym 호출 직전
+[05-21 17:31:37] [INFO] dlsym 호출 직후
+[05-21 17:31:37] [INFO] device_init() 호출 완료
+[05-21 17:31:58] [INFO] 수신 명령: led ON
+[05-21 17:31:58] [INFO] run_device_command() 진입. 명령어: led ON
+[05-21 17:31:58] [INFO] dlsym 호출 직전
+[05-21 17:31:58] [INFO] dlsym 호출 직후
+[05-21 17:31:58] [INFO] device_control() 호출 준비 완료: 명령어 = "led ON"
+[05-21 17:32:28] [INFO] 서버 시작됨 (포트 5200)
+[05-21 17:32:30] [INFO] 클라이언트 연결 수락: 192.168.0.33:60259
+[05-21 17:32:30] [INFO] 클라이언트 스레드 시작 (TID: 547713380736)
+[05-21 17:32:30] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 17:32:30] [INFO] dlsym 호출 직전
+[05-21 17:32:30] [INFO] dlsym 호출 직후
+[05-21 17:32:30] [INFO] device_init() 호출 완료
+[05-21 17:32:40] [INFO] 수신 명령: led ON
+[05-21 17:32:40] [INFO] run_device_command() 진입. 명령어: led ON
+[05-21 17:32:40] [INFO] dlsym 호출 직전
+[05-21 17:32:40] [INFO] dlsym 호출 직후
+[05-21 17:32:40] [INFO] device_control() 호출 준비 완료: 명령어 = "led ON"
+[05-21 17:46:52] [INFO] 서버 시작됨 (포트 5200)
+[05-21 17:47:28] [INFO] 서버 시작됨 (포트 5200)
+[05-21 17:48:08] [INFO] 클라이언트 연결 수락: 192.168.0.33:60374
+[05-21 17:48:08] [INFO] 클라이언트 스레드 시작 (TID: 547655905664)
+[05-21 17:48:08] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 17:48:08] [INFO] dlsym 호출 직전
+[05-21 17:48:08] [INFO] dlsym 호출 직후
+[05-21 17:48:08] [INFO] device_init() 호출 완료
+[05-21 17:48:19] [INFO] 수신 명령: led ON
+[05-21 17:48:19] [INFO] run_device_command() 진입. 명령어: led ON
+[05-21 17:48:19] [INFO] dlsym 호출 직전
+[05-21 17:48:19] [INFO] dlsym 호출 직후
+[05-21 17:48:19] [INFO] device_control() 호출 준비 완료: 명령어 = "led ON"
+[05-21 18:08:01] [INFO] 서버 시작됨 (포트 5200)
+[05-21 18:08:06] [INFO] 클라이언트 연결 수락: 192.168.0.33:60509
+[05-21 18:08:06] [INFO] 클라이언트 스레드 시작 (TID: 548572623232)
+[05-21 18:08:06] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 18:08:06] [INFO] dlsym 호출 직전
+[05-21 18:08:06] [INFO] dlsym 호출 직후
+[05-21 18:08:06] [INFO] device_init() 호출 완료
+[05-21 18:08:16] [INFO] 수신 명령: led ON
+[05-21 18:08:16] [INFO] run_device_command() 진입. 명령어: led ON
+[05-21 18:08:16] [INFO] dlsym 호출 직전
+[05-21 18:08:16] [INFO] dlsym 호출 직후
+[05-21 18:08:16] [INFO] device_control() 호출 준비 완료: 명령어 = "led ON"
+[05-21 19:00:04] [INFO] 서버 시작됨 (포트 5200)
+[05-21 19:00:08] [INFO] 클라이언트 연결 수락: 192.168.0.33:60827
+[05-21 19:00:08] [INFO] 클라이언트 스레드 시작 (TID: 548434473344)
+[05-21 19:00:08] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 19:00:08] [INFO] dlsym 호출 직전
+[05-21 19:00:08] [INFO] dlsym 호출 직후
+[05-21 19:00:08] [INFO] device_init() 호출 완료
+[05-21 19:00:21] [INFO] 수신 명령: led ON
+[05-21 19:00:21] [INFO] run_device_command() 진입. 명령어: led ON
+[05-21 19:00:21] [INFO] dlsym 호출 직전
+[05-21 19:00:21] [INFO] dlsym 호출 직후
+[05-21 19:00:21] [INFO] device_control() 호출 준비 완료: 명령어 = "led ON"
+[05-21 19:42:23] [INFO] 서버 시작됨 (포트 5200)
+[05-21 19:42:29] [INFO] 클라이언트 연결 수락: 192.168.0.33:61490
+[05-21 19:42:29] [INFO] 클라이언트 스레드 시작 (TID: 547991908736)
+[05-21 19:42:29] [ERROR] dlopen 실패: /home/iam/project/modules/libled_mod.so: undefined symbol: log_info
+[05-21 19:42:29] [ERROR] 모듈 로딩 실패
+[05-21 19:43:08] [INFO] 서버 종료 요청: SIGINT
+[05-21 19:43:45] [INFO] 서버 시작됨 (포트 5200)
+[05-21 19:43:53] [INFO] 클라이언트 연결 수락: 192.168.0.33:61503
+[05-21 19:43:53] [INFO] 클라이언트 스레드 시작 (TID: 547725635968)
+[05-21 19:43:53] [ERROR] dlopen 실패: /home/iam/project/modules/libled_mod.so: undefined symbol: log_info
+[05-21 19:43:53] [ERROR] 모듈 로딩 실패
+[05-21 19:44:19] [INFO] 서버 종료 요청: SIGINT
+[05-21 19:57:39] [INFO] 서버 시작됨 (포트 5200)
+[05-21 19:57:43] [INFO] 클라이언트 연결 수락: 192.168.0.33:61629
+[05-21 19:57:43] [INFO] 클라이언트 스레드 시작 (TID: 547905139072)
+[05-21 19:57:43] [ERROR] dlopen 실패: /home/iam/project/modules/libled_mod.so: undefined symbol: log_info
+[05-21 19:57:43] [ERROR] 모듈 로딩 실패
+[05-21 19:58:03] [INFO] 서버 종료 요청: SIGINT
+[05-21 19:58:08] [INFO] 서버 시작됨 (포트 5200)
+[05-21 19:58:13] [INFO] 클라이언트 연결 수락: 192.168.0.33:61633
+[05-21 19:58:13] [INFO] 클라이언트 스레드 시작 (TID: 547729437056)
+[05-21 19:58:13] [ERROR] dlopen 실패: /home/iam/project/modules/libled_mod.so: undefined symbol: log_info
+[05-21 19:58:13] [ERROR] 모듈 로딩 실패
+[05-21 19:58:32] [INFO] 서버 종료 요청: SIGINT
+[05-21 19:59:02] [INFO] 서버 시작됨 (포트 5200)
+[05-21 19:59:08] [INFO] 클라이언트 연결 수락: 192.168.0.33:61635
+[05-21 19:59:08] [INFO] 클라이언트 스레드 시작 (TID: 548148081024)
+[05-21 19:59:08] [ERROR] dlopen 실패: /home/iam/project/modules/libled_mod.so: undefined symbol: log_info
+[05-21 19:59:08] [ERROR] 모듈 로딩 실패
+[05-21 19:59:28] [INFO] 서버 종료 요청: SIGINT
+[05-21 20:05:49] [INFO] 서버 시작됨 (포트 5200)
+[05-21 20:06:02] [INFO] 클라이언트 연결 수락: 192.168.0.33:61688
+[05-21 20:06:02] [INFO] 클라이언트 스레드 시작 (TID: 547916280192)
+[05-21 20:06:02] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 20:06:02] [INFO] dlsym 호출 직전
+[05-21 20:06:02] [INFO] dlsym 호출 직후
+[05-21 20:06:02] [INFO] device_init() 호출 완료
+[05-21 20:06:15] [INFO] 수신 명령: led ON
+[05-21 20:06:15] [INFO] run_device_command() 진입. 명령어: led ON
+[05-21 20:06:15] [INFO] dlsym 호출 직전
+[05-21 20:06:15] [INFO] dlsym 호출 직후
+[05-21 20:06:15] [INFO] device_control() 호출 준비 완료: 명령어 = "led ON"
+[05-21 20:11:23] [INFO] 서버 시작됨 (포트 5200)
+[05-21 20:11:31] [INFO] 클라이언트 연결 수락: 192.168.0.33:61809
+[05-21 20:11:31] [INFO] 클라이언트 스레드 시작 (TID: 548401901952)
+[05-21 20:11:31] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 20:11:31] [INFO] dlsym 호출 직전
+[05-21 20:11:31] [INFO] dlsym 호출 직후
+[05-21 20:11:31] [INFO] device_init() 호출 완료
+[05-21 20:11:40] [INFO] 수신 명령: led on
+[05-21 20:11:40] [INFO] run_device_command() 진입. 명령어: led on
+[05-21 20:11:40] [INFO] dlsym 호출 직전
+[05-21 20:11:40] [INFO] dlsym 호출 직후
+[05-21 20:11:40] [INFO] device_control() 호출 준비 완료: 명령어 = "led on"
+[05-21 20:12:02] [INFO] 서버 시작됨 (포트 5200)
+[05-21 20:12:05] [INFO] 클라이언트 연결 수락: 192.168.0.33:61810
+[05-21 20:12:05] [INFO] 클라이언트 스레드 시작 (TID: 547638735232)
+[05-21 20:12:05] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 20:12:05] [INFO] dlsym 호출 직전
+[05-21 20:12:05] [INFO] dlsym 호출 직후
+[05-21 20:12:05] [INFO] device_init() 호출 완료
+[05-21 20:12:17] [INFO] 수신 명령: led ON
+[05-21 20:12:17] [INFO] run_device_command() 진입. 명령어: led ON
+[05-21 20:12:17] [INFO] dlsym 호출 직전
+[05-21 20:12:17] [INFO] dlsym 호출 직후
+[05-21 20:12:17] [INFO] device_control() 호출 준비 완료: 명령어 = "led ON"
+[05-21 20:21:57] [INFO] 서버 시작됨 (포트 5200)
+[05-21 20:22:06] [INFO] 클라이언트 연결 수락: 192.168.0.33:61884
+[05-21 20:22:06] [INFO] 클라이언트 스레드 시작 (TID: 547628577152)
+[05-21 20:22:06] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 20:22:06] [INFO] dlsym 호출 직전
+[05-21 20:22:06] [INFO] dlsym 호출 직후
+[05-21 20:22:06] [INFO] device_init() 호출 완료
+[05-21 20:22:14] [INFO] 수신 명령: led on
+[05-21 20:22:14] [INFO] run_device_command() 진입. 명령어: led on
+[05-21 20:22:14] [INFO] dlsym 호출 직전
+[05-21 20:22:14] [INFO] dlsym 호출 직후
+[05-21 20:22:14] [INFO] device_control() 호출 준비 완료: 명령어 = "led on"
+[05-21 20:22:24] [INFO] 서버 시작됨 (포트 5200)
+[05-21 20:22:26] [INFO] 클라이언트 연결 수락: 192.168.0.33:61887
+[05-21 20:22:26] [INFO] 클라이언트 스레드 시작 (TID: 548349407616)
+[05-21 20:22:26] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 20:22:26] [INFO] dlsym 호출 직전
+[05-21 20:22:26] [INFO] dlsym 호출 직후
+[05-21 20:22:26] [INFO] device_init() 호출 완료
+[05-21 20:22:32] [INFO] 수신 명령: led ON MAX
+[05-21 20:22:32] [INFO] run_device_command() 진입. 명령어: led ON MAX
+[05-21 20:22:32] [INFO] dlsym 호출 직전
+[05-21 20:22:32] [INFO] dlsym 호출 직후
+[05-21 20:22:32] [INFO] device_control() 호출 준비 완료: 명령어 = "led ON MAX"
+[05-21 20:45:04] [INFO] 서버 시작됨 (포트 5200)
+[05-21 20:46:35] [INFO] 클라이언트 연결 수락: 127.0.0.1:47240
+[05-21 20:46:35] [INFO] 클라이언트 스레드 시작 (TID: 548554142080)
+[05-21 20:46:35] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 20:46:35] [INFO] dlsym 호출 직전
+[05-21 20:46:35] [INFO] dlsym 호출 직후
+[05-21 20:46:35] [INFO] device_init() 호출 완료
+[05-21 20:46:58] [INFO] 클라이언트 연결 종료 (EOF)
+[05-21 20:46:58] [INFO] 클라이언트 스레드 종료 (TID: 548554142080)
+[05-21 20:47:15] [INFO] 서버 시작됨 (포트 5200)
+[05-21 20:47:33] [INFO] 클라이언트 연결 수락: 127.0.0.1:55670
+[05-21 20:47:33] [INFO] 클라이언트 스레드 시작 (TID: 547700339072)
+[05-21 20:47:33] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 20:47:33] [INFO] dlsym 호출 직전
+[05-21 20:47:33] [INFO] dlsym 호출 직후
+[05-21 20:47:33] [INFO] device_init() 호출 완료
+[05-21 20:47:46] [INFO] 수신 명령: LED ON
+[05-21 20:47:46] [INFO] run_device_command() 진입. 명령어: LED ON
+[05-21 20:47:46] [INFO] dlsym 호출 직전
+[05-21 20:47:46] [INFO] dlsym 호출 직후
+[05-21 20:47:46] [INFO] device_control() 호출 준비 완료: 명령어 = "LED ON"
+[05-21 20:48:33] [INFO] 서버 시작됨 (포트 5200)
+[05-21 20:48:41] [INFO] 클라이언트 연결 수락: 192.168.0.33:62048
+[05-21 20:48:41] [INFO] 클라이언트 스레드 시작 (TID: 548433162624)
+[05-21 20:48:41] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 20:48:41] [INFO] dlsym 호출 직전
+[05-21 20:48:41] [INFO] dlsym 호출 직후
+[05-21 20:48:41] [INFO] device_init() 호출 완료
+[05-21 20:48:46] [INFO] 수신 명령: led ㅒㅜ
+[05-21 20:48:46] [INFO] run_device_command() 진입. 명령어: led ㅒㅜ
+[05-21 20:48:46] [INFO] dlsym 호출 직전
+[05-21 20:48:46] [INFO] dlsym 호출 직후
+[05-21 20:48:46] [INFO] device_control() 호출 준비 완료: 명령어 = "led ㅒㅜ"
+[05-21 20:48:51] [INFO] 서버 시작됨 (포트 5200)
+[05-21 20:49:11] [INFO] 클라이언트 연결 수락: 192.168.0.33:62049
+[05-21 20:49:11] [INFO] 클라이언트 스레드 시작 (TID: 547915428224)
+[05-21 20:49:11] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 20:49:11] [INFO] dlsym 호출 직전
+[05-21 20:49:11] [INFO] dlsym 호출 직후
+[05-21 20:49:11] [INFO] device_init() 호출 완료
+[05-21 20:49:19] [INFO] 수신 명령: led ON MAX
+[05-21 20:49:19] [INFO] run_device_command() 진입. 명령어: led ON MAX
+[05-21 20:49:19] [INFO] dlsym 호출 직전
+[05-21 20:49:19] [INFO] dlsym 호출 직후
+[05-21 20:49:19] [INFO] device_control() 호출 준비 완료: 명령어 = "led ON MAX"
+[05-21 21:12:46] [INFO] 서버 시작됨 (포트 5200)
+[05-21 21:12:49] [INFO] 클라이언트 연결 수락: 127.0.0.1:48042
+[05-21 21:12:49] [INFO] 클라이언트 스레드 시작 (TID: 548253331840)
+[05-21 21:12:49] [INFO] 모듈 로딩 성공: /home/iam/project/modules/libled_mod.so
+[05-21 21:12:49] [INFO] dlsym 호출 직전
+[05-21 21:12:49] [INFO] dlsym 호출 직후
+[05-21 21:12:49] [ERROR] device_init 없음: /home/iam/project/modules/libled_mod.so: undefined symbol: device_init
+[05-21 21:12:52] [INFO] 수신 명령: led on

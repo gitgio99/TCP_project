@@ -18,14 +18,15 @@ void int_handler(int signo) {
 int main(int argc, char* argv[]) {
     signal(SIGINT, int_handler);
 
-    if (argc != 3) {
-        fprintf(stderr, "사용법: %s <서버IP> <포트번호>\n", argv[0]);
-        exit(1);
-    }
+    // if (argc != 3) {
+    //     fprintf(stderr, "사용법: %s <서버IP> <포트번호>\n", argv[0]);
+    //     exit(1);
+    // }
 
-    const char* server_ip = argv[1];
+    char* server_ip = argv[1];
+    server_ip = "127.0.0.1";
     int server_port = atoi(argv[2]);
-
+    server_port =5200;
     int sock = socket(AF_INET, SOCK_STREAM, 0);
     if (sock == -1) {
         perror("socket() 실패");

@@ -6,7 +6,7 @@
 static FILE* log_fp = NULL;
 
 void init_log() {
-    log_fp = fopen("server.log", "a");
+    log_fp = fopen("/home/iam/project/server/server.log", "a");
     if (!log_fp) {
         fprintf(stderr, "[로그 초기화 실패] server.log 열기 실패\n");
         exit(1);
